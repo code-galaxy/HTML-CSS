@@ -1,0 +1,56 @@
+* {
+   margin: 0;
+}
+
+.container {
+   max-width: 1000px;
+   margin: 20px auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-size: 24px;
+   font-weight: bold;
+   font-family: Impact, sans-serif;
+   text-align: center;
+}
+
+h1 {
+   font-size: 32px;
+}
+
+p {
+   font-family: Arial, sans-serif;
+   font-size: 18;
+   line-height: 150%;
+}
+
+img {
+   display: block;
+   margin: 20px auto;
+   max-width: 80%;
+}
+
+.img-description {
+   text-align: center;
+   font-style: italic;
+   margin: 20px 0 40px 0;
+}
+
+ul {
+   font-family: Arial, sans-serif;
+   font-size: 18px;
+   line-height: 150%;
+}
+
+.text-red {
+   color: red;
+}
+
+.text-bold {
+   font-weight: bold;
+}
